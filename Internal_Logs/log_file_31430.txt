@@ -1,0 +1,25 @@
+pygame 2.1.2 (SDL 2.0.18, Python 3.6.13)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[7727754, 'test']
+
+
+
+Now initializing Zero-Back Task
+Now setting up Zero-Back Task
+Now running Zero-Back Task
+8.6054 	WARNING 	Speech-to-text recognition module not available (use command `pip install SpeechRecognition` to get it. Transcription will be unavailable.
+8.6693 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'pyo', 'pygame'] (in that order).
+29.8259 	WARNING 	Monitor specification not found. Creating a temporary one...
+32.3812 	WARNING 	Couldn't measure a consistent frame rate.
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+32.6739 	WARNING 	t of last frame was 293.12ms (=1/3)
+61.9905 	WARNING 	t of last frame was 29316.56ms (=1/0)
+62.0754 	WARNING 	t of last frame was 84.93ms (=1/11)
+64.9661 	WARNING 	Requested image 'C:\\Users\\PS-TriangleLab\\Documents\\GitHub\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\PS-TriangleLab\\Documents\\GitHub\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+65.0399 	WARNING 	Requested image 'C:\\Users\\PS-TriangleLab\\Documents\\GitHub\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\PS-TriangleLab\\Documents\\GitHub\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+65.0968 	WARNING 	Requested image 'C:\\Users\\PS-TriangleLab\\Documents\\GitHub\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\PS-TriangleLab\\Documents\\GitHub\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+65.1561 	WARNING 	Requested image 'C:\\Users\\PS-TriangleLab\\Documents\\GitHub\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\PS-TriangleLab\\Documents\\GitHub\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+65.3073 	WARNING 	t of last frame was 3231.95ms (=1/0)
+78.3574 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!

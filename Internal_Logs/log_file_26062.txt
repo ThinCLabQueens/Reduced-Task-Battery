@@ -1,0 +1,65 @@
+pygame 2.1.2 (SDL 2.0.18, Python 3.6.13)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[2749791, 'Enter Name Here']
+
+
+
+
+
+
+
+Now initializing Zero-Back Task
+Now setting up Zero-Back Task
+Now running Zero-Back Task
+2.2006 	WARNING 	Speech-to-text recognition module not available (use command `pip install SpeechRecognition` to get it. Transcription will be unavailable.
+2.2650 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+18.0338 	WARNING 	Monitor specification not found. Creating a temporary one...
+21.3920 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+21.4166 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+21.4350 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+21.4527 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+Now starting ESQ for Zero-Back Task
+Now initializing Zero-Back Task
+Now setting up Zero-Back Task
+Now running Zero-Back Task
+103.8793 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+121.1824 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+121.1997 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+121.2177 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+121.2363 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+Now starting ESQ for Zero-Back Task
+Now initializing Zero-Back Task
+Now setting up Zero-Back Task
+Now running Zero-Back Task
+206.4937 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+223.8746 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+223.8938 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+223.9136 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+223.9332 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//ZeroBack_Task//0back.png' exists. This will be used instead but changing the filename is advised.
+Now starting ESQ for Zero-Back Task
+Now initializing One-Back Task
+Now setting up One-Back Task
+Now running One-Back Task
+315.3138 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+332.7264 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+332.7468 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+332.7658 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+332.7847 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+Now starting ESQ for One-Back Task
+Now initializing One-Back Task
+Now setting up One-Back Task
+Now running One-Back Task
+421.0297 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+438.4336 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+438.4543 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+438.4735 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+438.4922 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+Now starting ESQ for One-Back Task
+Now initializing One-Back Task
+Now setting up One-Back Task
+Now running One-Back Task
+505.6000 	WARNING 	RatingScale unnamed RatingScale: len(labels) not equal to len(tickMarks)
+523.0066 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+523.0246 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+523.0445 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
+523.0649 	WARNING 	Requested image 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.jpg' not found but similar filename 'C:\\Users\\Ian\\Documents\\York-Battery\\Tasks\\taskScripts//resources//OneBack_Task//1back.png' exists. This will be used instead but changing the filename is advised.
